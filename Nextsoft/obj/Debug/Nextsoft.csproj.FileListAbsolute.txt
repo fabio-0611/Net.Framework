@@ -1,0 +1,30 @@
+C:\Users\Super Rocha\Desktop\executavél\Nextsoft\Nextsoft\bin\Debug\Nextsoft.exe.config
+C:\Users\Super Rocha\Desktop\executavél\Nextsoft\Nextsoft\bin\Debug\Nextsoft.exe
+C:\Users\Super Rocha\Desktop\executavél\Nextsoft\Nextsoft\bin\Debug\Nextsoft.pdb
+C:\Users\Super Rocha\Desktop\executavél\Nextsoft\Nextsoft\obj\Debug\Nextsoft.csprojAssemblyReference.cache
+C:\Users\Super Rocha\Desktop\executavél\Nextsoft\Nextsoft\obj\Debug\Nextsoft.login.resources
+C:\Users\Super Rocha\Desktop\executavél\Nextsoft\Nextsoft\obj\Debug\Nextsoft.Properties.Resources.resources
+C:\Users\Super Rocha\Desktop\executavél\Nextsoft\Nextsoft\obj\Debug\Nextsoft.csproj.GenerateResource.cache
+C:\Users\Super Rocha\Desktop\executavél\Nextsoft\Nextsoft\obj\Debug\Nextsoft.csproj.CoreCompileInputs.cache
+C:\Users\Super Rocha\Desktop\executavél\Nextsoft\Nextsoft\obj\Debug\Nextsoft.exe
+C:\Users\Super Rocha\Desktop\executavél\Nextsoft\Nextsoft\obj\Debug\Nextsoft.pdb
+C:\Users\Super Rocha\Desktop\executavél\Nextsoft\Nextsoft\obj\Debug\Nextsoft.Cadastro.resources
+C:\Users\Super Rocha\Desktop\executavél\Nextsoft\Nextsoft\obj\Debug\Nextsoft.CadastroFamilia.resources
+C:\Users\Super Rocha\Desktop\executavél\Nextsoft\Nextsoft\obj\Debug\Nextsoft.CadastroMorador.resources
+C:\Users\Super Rocha\Desktop\executavél\Nextsoft\Nextsoft\obj\Debug\Nextsoft.Menu.resources
+C:\Users\Super Rocha\Desktop\executavél\Nextsoft\Nextsoft\obj\Debug\Nextsoft.todastbl.resources
+C:\Users\Super Rocha\Desktop\Banco de dados\Nextsoft\Nextsoft\bin\Debug\Nextsoft.exe.config
+C:\Users\Super Rocha\Desktop\Banco de dados\Nextsoft\Nextsoft\bin\Debug\Nextsoft.exe
+C:\Users\Super Rocha\Desktop\Banco de dados\Nextsoft\Nextsoft\bin\Debug\Nextsoft.pdb
+C:\Users\Super Rocha\Desktop\Banco de dados\Nextsoft\Nextsoft\obj\Debug\Nextsoft.csprojAssemblyReference.cache
+C:\Users\Super Rocha\Desktop\Banco de dados\Nextsoft\Nextsoft\obj\Debug\Nextsoft.Cadastro.resources
+C:\Users\Super Rocha\Desktop\Banco de dados\Nextsoft\Nextsoft\obj\Debug\Nextsoft.CadastroFamilia.resources
+C:\Users\Super Rocha\Desktop\Banco de dados\Nextsoft\Nextsoft\obj\Debug\Nextsoft.CadastroMorador.resources
+C:\Users\Super Rocha\Desktop\Banco de dados\Nextsoft\Nextsoft\obj\Debug\Nextsoft.login.resources
+C:\Users\Super Rocha\Desktop\Banco de dados\Nextsoft\Nextsoft\obj\Debug\Nextsoft.Menu.resources
+C:\Users\Super Rocha\Desktop\Banco de dados\Nextsoft\Nextsoft\obj\Debug\Nextsoft.Properties.Resources.resources
+C:\Users\Super Rocha\Desktop\Banco de dados\Nextsoft\Nextsoft\obj\Debug\Nextsoft.todastbl.resources
+C:\Users\Super Rocha\Desktop\Banco de dados\Nextsoft\Nextsoft\obj\Debug\Nextsoft.csproj.GenerateResource.cache
+C:\Users\Super Rocha\Desktop\Banco de dados\Nextsoft\Nextsoft\obj\Debug\Nextsoft.csproj.CoreCompileInputs.cache
+C:\Users\Super Rocha\Desktop\Banco de dados\Nextsoft\Nextsoft\obj\Debug\Nextsoft.exe
+C:\Users\Super Rocha\Desktop\Banco de dados\Nextsoft\Nextsoft\obj\Debug\Nextsoft.pdb
